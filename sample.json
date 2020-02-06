@@ -1,9 +1,12 @@
 {
-    "users": [
-        {
-            "userid": "1001",
-            "fname": "test",
-            "lname": "example"
+    "users": {
+        "dBabs": {
+            "username": "test",
+            "password": "password",
+            "fname": "example",
+            "lname": "example2",
+            "email": "example@gmail.com",
+            "dob": "01/12/1992"
         }
-    ]
+    }
 }

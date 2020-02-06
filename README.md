@@ -66,3 +66,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+Command line-
+npx create-react-app "we-explore-capstone"
+cd we-explore-capstone
+git init
+git remote add origin https://github.com/dbabs629/we-explore-capstone.git
+git add .
+git commit -m "first commit"
+git push -u origin master
+npm i firebase --save
+npm i @react-firebase/database
